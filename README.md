@@ -1,2 +1,2 @@
 # Text-Preprocessing-for-Hindi-and-Gujarati
-This repository contains python scripts which are used to extract list of words of Gujarati and Hindi language  from the given document which contains one or more than one paragraphs in Gujarati or Hindi language.
+The python scripts in this repository can be used to extract a list of Gujarati and Hindi terms from a given document that includes one or more paragraphs written in either language.
