@@ -1,0 +1,2 @@
+This directory contains code for the stemming, duplicates removal, stop-words removal, and english character removal from the input corpus.
+Basically, These mentioned techniques are used to preprocess the input corpus of the languages like Hindi and Gujarati.
