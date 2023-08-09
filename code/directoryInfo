@@ -1,2 +1,6 @@
 This directory contains code for the stemming, duplicates removal, stop-words removal, and english character removal from the input corpus.
 Basically, These mentioned techniques are used to preprocess the input corpus of the languages like Hindi and Gujarati.
+
+Hindi/Gujarati{Input, StopWords, and Output}.txt files are given, out of them Input files contains Hindi and Gujarati corpus.
+Intermediate file will save the intermediate output while extracting the list of the words from the corpus. 
+Output files will save the list of either language; Hindi or Gujarati
